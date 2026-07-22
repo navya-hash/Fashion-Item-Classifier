@@ -137,6 +137,8 @@ docker run -p 8501:8501 fashion-classifier
 
 ## 📷 How It Works
 
+![Fashion Item Classifier](img1.png)
+
 1. Upload a fashion image.
 2. The image is resized to **28 × 28** pixels.
 3. Converted to grayscale.
